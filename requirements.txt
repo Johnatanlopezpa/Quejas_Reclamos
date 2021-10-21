@@ -1,0 +1,5 @@
+cx_Oracle
+pyodbc
+pandas
+pywin32
+pypiwin32
